@@ -1,0 +1,9 @@
+pystac_client
+folium
+geopandas
+shapely
+odc-stac
+numpy
+rasterio
+affine
+matplotlib
