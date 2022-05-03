@@ -20,7 +20,7 @@ Sentinel-1 based floodmask products processed within the project Data4Human [ava
 ## Licenses
 This software is licensed under the [Apache 2.0 License](https://github.com/dlr-eoc/ukis-data-tutorials/blob/main/LICENSE.txt).
 
-Copyright (c) 2020 German Aerospace Center (DLR) * German Remote Sensing Data Center * Department: Geo-Risks and Civil Security
+Copyright (c) 2022 German Aerospace Center (DLR) * German Remote Sensing Data Center * Department: Geo-Risks and Civil Security
 
 ## Contributing
 The UKIS team welcomes contributions from the community.
