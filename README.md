@@ -3,9 +3,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlr-eoc/ukis-data-tutorials/HEAD)
 [![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Notebooks and collection of resources around the datasets we published on [Geoservice](https://geoservice.dlr.de/web/).
+Notebooks and collection of resources around the datasets we published on [EOC Geoservice](https://geoservice.dlr.de/web/).
 
-## burnt area products
+## Burnt Area Products
 Daily, monthly and yearly burnt area products in the EOC Geoservice.
 
 In [burntarea/analyze_data.ipynb](burntarea/analyze_data.ipynb) you can find some small example for how to get and use the products.
@@ -14,7 +14,7 @@ The [daily product](https://geoservice.dlr.de/web/maps/eoc:burntarea:efr:daily) 
 
 [EOC News article](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-18220/29005_read-77114/).
 
-## water products ([Data4Human](https://www.dlr.de/content/en/images/2020/2/data4human-automated-damage-analysis.html) Sentinel-1 Floodmasks)
+## Water Products ([Data4Human](https://www.dlr.de/content/en/images/2020/2/data4human-automated-damage-analysis.html) Sentinel-1 Floodmasks)
 Sentinel-1 based floodmask products processed within the project Data4Human [available as STAC collection](https://geoservice.dlr.de/eoc/ogc/stac/collections/D4H) on the EOC Geoservice. Checkout [this notebook](water/access_data4human.ipynb) for examples on how to access and interact with the products.
 
 ## Licenses
