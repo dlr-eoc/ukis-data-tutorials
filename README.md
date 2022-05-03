@@ -1,5 +1,6 @@
 # [![UKIS](https://raw.githubusercontent.com/dlr-eoc/ukis-pysat/master/docs/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/) UKIS data-tutorials
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlr-eoc/ukis-data-tutorials/HEAD)
 [![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 Notebooks and collection of resources around the datasets we published on [Geoservice](https://geoservice.dlr.de/web/).
