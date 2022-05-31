@@ -8,3 +8,4 @@ rasterio
 affine
 matplotlib
 bottleneck
+dask
