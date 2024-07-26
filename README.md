@@ -17,6 +17,9 @@ The [daily product](https://geoservice.dlr.de/web/maps/eoc:burntarea:efr:daily) 
 ## Water Products ([Data4Human](https://www.dlr.de/content/en/images/2020/2/data4human-automated-damage-analysis.html) Sentinel-1 Floodmasks)
 Sentinel-1 based floodmask products processed within the project Data4Human [available as STAC collection](https://geoservice.dlr.de/eoc/ogc/stac/collections/D4H) on the EOC Geoservice. Checkout [this notebook](water/access_data4human.ipynb) for examples on how to access and interact with the products.
 
+## [EnMAP L2A HSI Products](https://geoservice.dlr.de/eoc/ogc/stac/v1/collections/ENMAP_HSI_L2A)
+EnMAP L2A HSI Products providing all 224 bands as CEOS-ARD data using athmosperic correction over land (CARD4L). To access and download the EnMAP-products please follow the instructions in [this notebook](enmap/enmap_datasets.ipynb).
+
 ## Licenses
 This software is licensed under the [Apache 2.0 License](https://github.com/dlr-eoc/ukis-data-tutorials/blob/main/LICENSE.txt).
 
