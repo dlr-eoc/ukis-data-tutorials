@@ -14,8 +14,10 @@ The [daily product](https://geoservice.dlr.de/web/maps/eoc:burntarea:efr:daily) 
 
 [EOC News article](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-18220/29005_read-77114/).
 
-## Water Products ([Data4Human](https://www.dlr.de/content/en/images/2020/2/data4human-automated-damage-analysis.html) Sentinel-1 Floodmasks)
-Sentinel-1 based floodmask products processed within the project Data4Human [available as STAC collection](https://geoservice.dlr.de/eoc/ogc/stac/collections/D4H) on the EOC Geoservice. Checkout [this notebook](water/access_data4human.ipynb) for examples on how to access and interact with the products.
+## [Surface Water Inventory and Monitoring Water Extent](https://geoservice.dlr.de/web/datasets/swim)
+SWIM Water Extent is a global surface water product at 10 m pixel spacing based on Sentinel-1/2 data. To access and interact with the SWIM products via STAC API please follow the instructions in [this notebook](water/access_swim.ipynb).
+
+[EOC News article](https://www.dlr.de/en/eoc/latest/news/2026/from-floods-to-droughts-exploring-surface-water-with-satellite-data).
 
 ## [EnMAP L2A HSI Products](https://geoservice.dlr.de/eoc/ogc/stac/v1/collections/ENMAP_HSI_L2A)
 EnMAP L2A HSI Products providing all 224 bands as CEOS-ARD data using athmosperic correction over land (CARD4L). To access and download the EnMAP-products please follow the instructions in [this notebook](enmap/enmap_datasets.ipynb).
