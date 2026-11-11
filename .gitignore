@@ -4,6 +4,9 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+cache/
+stac/notebook_ouput
+.*venv
 
 # IPython
 profile_default/
